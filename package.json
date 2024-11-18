@@ -17,7 +17,7 @@
     "core-js": "^3.6.1",
     "d3-funnel": "^1.2.2",
     "file-saver": "^2.0.2",
-    "firebase": "^7.6.1",
+    "firebase": "^10.9.0",
     "flubber": "^0.4.2",
     "fullcalendar": "^3.10.1",
     "google-maps-react": "^2.0.2",
